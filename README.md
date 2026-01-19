@@ -1,6 +1,12 @@
 # Othello-Game-Simulator
 This repository was created to personally store the results of a game development project utilizing the SDL2 library from the programming methodology class.
 
+# Game Rule
+check <https://www.worldothello.org/about/about-othello/othello-rules/official-rules/english>
+
+
+
+
 # Project Development Environment
   - OS: Windows 11
   - Programming language: C
@@ -11,3 +17,7 @@ This repository was created to personally store the results of a game developmen
   1. After downloading Visual Studio 2022, select 'Desktop Development with C++' in the development tool selection window
   2. Run Visual Studio 2022, select 'Open Local Folder' to open the project folder and double click the solution file(.sln)
   3. Build with Ctrl + Shift + B and run with Ctrl + F5
+
+# **Role in this project**
+  - Modify code structure(Reduce code length by removing unnecessary variable declarations and using loop, etc)
+  - Create an image source with Generative AI (ex: ChatGPT)
