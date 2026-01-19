@@ -1,2 +1,13 @@
 # Othello-Game-Simulator
 This repository was created to personally store the results of a game development project utilizing the SDL2 library from the programming methodology class.
+
+# Project Development Environment
+  - OS: Windows 11
+  - Programming language: C
+  - Compiler: Visual Studio 2022 Compiler(VC++)
+  - Used library: SDL version 2.0, SDL_image version 2.0, SDL_ttf version 2.0
+
+# How to build:
+  1. After downloading Visual Studio 2022, select 'Desktop Development with C++' in the development tool selection window
+  2. Run Visual Studio 2022, select 'Open Local Folder' to open the project folder and double click the solution file(.sln)
+  3. Build with Ctrl + Shift + B and run with Ctrl + F5
