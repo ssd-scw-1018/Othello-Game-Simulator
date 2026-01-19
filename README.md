@@ -4,8 +4,10 @@ This repository was created to personally store the results of a game developmen
 # Game Rule
 check <https://www.worldothello.org/about/about-othello/othello-rules/official-rules/english>
 
-
-
+# Goal of this project
+  - Make Othello Games in accordance with official rules
+  - Make normal mode that follows the general rules and a special mode that does not allow stones to be placed in some areas
+  - Improves gamer satisfaction by inserting sound effects and character photos
 
 # Project Development Environment
   - OS: Windows 11
@@ -18,6 +20,6 @@ check <https://www.worldothello.org/about/about-othello/othello-rules/official-r
   2. Run Visual Studio 2022, select 'Open Local Folder' to open the project folder and double click the solution file(.sln)
   3. Build with Ctrl + Shift + B and run with Ctrl + F5
 
-# **Role in this project**
+# **My Role in this project**
   - Modify code structure(Reduce code length by removing unnecessary variable declarations and using loop, etc)
   - Create an image source with Generative AI (ex: ChatGPT)
